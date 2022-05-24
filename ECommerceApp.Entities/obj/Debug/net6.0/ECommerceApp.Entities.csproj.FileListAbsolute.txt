@@ -1,0 +1,12 @@
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.Entities\bin\Debug\net6.0\ECommerceApp.Entities.deps.json
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.Entities\bin\Debug\net6.0\ECommerceApp.Entities.dll
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.Entities\bin\Debug\net6.0\ECommerceApp.Entities.pdb
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.Entities\obj\Debug\net6.0\ECommerceApp.Entities.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.Entities\obj\Debug\net6.0\ECommerceApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.Entities\obj\Debug\net6.0\ECommerceApp.Entities.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.Entities\obj\Debug\net6.0\ECommerceApp.Entities.AssemblyInfo.cs
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.Entities\obj\Debug\net6.0\ECommerceApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.Entities\obj\Debug\net6.0\ECommerceApp.Entities.dll
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.Entities\obj\Debug\net6.0\refint\ECommerceApp.Entities.dll
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.Entities\obj\Debug\net6.0\ECommerceApp.Entities.pdb
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.Entities\obj\Debug\net6.0\ref\ECommerceApp.Entities.dll
