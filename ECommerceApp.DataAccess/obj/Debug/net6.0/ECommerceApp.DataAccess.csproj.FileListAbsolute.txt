@@ -1,0 +1,17 @@
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\bin\Debug\net6.0\ECommerceApp.DataAccess.deps.json
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\bin\Debug\net6.0\ECommerceApp.DataAccess.dll
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\bin\Debug\net6.0\ECommerceApp.DataAccess.pdb
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\bin\Debug\net6.0\ECommerceApp.Entities.dll
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\bin\Debug\net6.0\ECommerceApp.Entities.pdb
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\obj\Debug\net6.0\ECommerceApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\obj\Debug\net6.0\ECommerceApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\obj\Debug\net6.0\ECommerceApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\obj\Debug\net6.0\ECommerceApp.DataAccess.AssemblyInfo.cs
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\obj\Debug\net6.0\ECommerceApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\obj\Debug\net6.0\ECommerceApp.DataAccess.csproj.CopyComplete
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\obj\Debug\net6.0\ECommerceApp.DataAccess.dll
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\obj\Debug\net6.0\refint\ECommerceApp.DataAccess.dll
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\obj\Debug\net6.0\ECommerceApp.DataAccess.pdb
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\obj\Debug\net6.0\ref\ECommerceApp.DataAccess.dll
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\bin\Debug\net6.0\ECommerceApp.DataAccess.runtimeconfig.json
+C:\Users\serge\source\repos\ECommerceApp\ECommerceApp.DataAccess\obj\Debug\net6.0\ECommerceApp.DataAccess.genruntimeconfig.cache
